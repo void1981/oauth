@@ -1,4 +1,7 @@
+*
+!/**/
+!*.*
 .vagrant
 *.pyc
-Vagrantfile
 *.sh
+.gitignore
